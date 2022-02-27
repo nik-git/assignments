@@ -74,7 +74,7 @@ def compare_images(test_generated_image_folder_location, reff_image_folder_locat
             # If test image file is present but reference image file is not present.
             logger.info(f"Test image is present but corresponding reference image is not present: {test_image}")
 
-
+# Test file content to test above code.
 compare_images("/Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik",
                "/Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik",
                None, "compare_images.log")
