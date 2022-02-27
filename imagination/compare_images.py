@@ -20,12 +20,16 @@ def compare_images(test_generated_image_folder_location, reff_image_folder_locat
 
     """
     # Add the basic configuration for the log file.
-    logging.basicConfig(level=logging.INFO,
+    logging.getLogger("PIL.Image").setLevel(logging.WARNING)
+    logging.getLogger("PIL.PngImagePlugin").setLevel(logging.WARNING)
+    logging.basicConfig(level=logging.DEBUG,
                         format='%(asctime)s %(name)-5s %(levelname)-5s %(message)s',
                         datefmt='%m-%d %H:%M:%S',
                         filename=name_of_log_file,
                         filemode='w')
     logger = logging.getLogger()
+    logger.info(f"Test image directory path: {test_generated_image_folder_location}")
+    logger.info(f"Reference image directory path: {reff_image_folder_location}")
     summary = {}
     # Get the list of all files in test folder
     test_image_list = os.listdir(test_generated_image_folder_location)
@@ -37,12 +41,12 @@ def compare_images(test_generated_image_folder_location, reff_image_folder_locat
     for test_image in test_image_list:
         # Get the full path of files in test folder
         test_image_path = os.path.join(test_generated_image_folder_location, test_image)
-        logger.info(f"Starting the comparison of test image file: {test_image_path}")
+        logger.info(f"Starting the comparison of test image file: {test_image}")
         # If same name files are present in ref folder and test folder
         if test_image in ref_image_list:
             # Get the full path of files in ref folder
             ref_image_path = os.path.join(reff_image_folder_location, test_image)
-            logger.info(f"Corresponding reference image file: {ref_image_path}")
+            logger.info("Found corresponding reference image file.")
             # Open test image file
             test_img = Image.open(test_image_path)
             # Get the size of test image
@@ -56,7 +60,7 @@ def compare_images(test_generated_image_folder_location, reff_image_folder_locat
             # If the size of ref image and test image does not match
             if test_image_size != ref_image_size:
                 # Resize the test image as ref image size
-                logger.debug(f"Resizing test image with corresponding reference image size.")
+                logger.debug("Resizing test image with corresponding reference image size.")
                 resized_test_img = test_img.resize(ref_image_size)
                 # Remove the old test file
                 os.remove(test_image_path)
@@ -65,10 +69,10 @@ def compare_images(test_generated_image_folder_location, reff_image_folder_locat
 
             test_img.close()
             ref_img.close()
-            logger.info(f"Ending the comparison of test image file: {test_image_path}")
+            logger.info(f"Ending the comparison of test image file: {test_image}")
         else:
             # If test image file is present but reference image file is not present.
-            logger.info(f"Test image is present but corresponding reference image is not present: {test_image_path}")
+            logger.info(f"Test image is present but corresponding reference image is not present: {test_image}")
 
 
 compare_images("/Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik",
