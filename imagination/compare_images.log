@@ -1,288 +1,290 @@
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/48.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/48.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/48.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/49.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/49.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/49.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/8.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/8.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/8.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/9.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/9.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/9.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/14.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/14.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/14.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/28.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/28.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/28.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/29.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/29.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/29.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/15.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/15.png
-02-27 14:24:12 root  DEBUG Size of test image: (640, 480)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  DEBUG Resizing test image with corresponding reference image size.
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/15.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/17.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/17.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/17.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/16.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/16.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/16.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/12.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/12.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/12.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/13.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/13.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/13.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/39.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/39.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/39.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/11.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/11.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/11.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/10.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/10.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:12 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:12 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/10.png
-02-27 14:24:12 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/38.png
-02-27 14:24:12 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/38.png
-02-27 14:24:12 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/38.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/120.png
-02-27 14:24:13 root  INFO  Test image is present but corresponding reference image is not present: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/120.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/35.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/35.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/35.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/21.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/21.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/21.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/20.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/20.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/20.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/34.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/34.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/34.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/121.png
-02-27 14:24:13 root  INFO  Test image is present but corresponding reference image is not present: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/121.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/123.png
-02-27 14:24:13 root  INFO  Test image is present but corresponding reference image is not present: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/123.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/22.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/22.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/22.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/36.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/36.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/36.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/37.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/37.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/37.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/23.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/23.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/23.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/122.png
-02-27 14:24:13 root  INFO  Test image is present but corresponding reference image is not present: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/122.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/27.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/27.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/27.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/33.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/33.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/33.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/32.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/32.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/32.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/26.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/26.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/26.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/18.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/18.png
-02-27 14:24:13 root  DEBUG Size of test image: (64, 64)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  DEBUG Resizing test image with corresponding reference image size.
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/18.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/30.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/30.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/30.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/24.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/24.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/24.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/25.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/25.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/25.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/31.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/31.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/31.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/19.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/19.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/19.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/124.png
-02-27 14:24:13 root  INFO  Test image is present but corresponding reference image is not present: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/124.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/4.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/4.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/4.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/42.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/42.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/42.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/43.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/43.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/43.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/5.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/5.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/5.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/41.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/41.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/41.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/55.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/55.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/55.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/7.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/7.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/7.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/54.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/54.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/54.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/6.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/6.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/6.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/40.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/40.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/40.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/44.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/44.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/44.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/2.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/2.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/2.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/50.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/50.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/50.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/3.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/3.png
-02-27 14:24:13 root  DEBUG Size of test image: (128, 128)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  DEBUG Resizing test image with corresponding reference image size.
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/3.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/51.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/51.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/51.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/45.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/45.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/45.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/53.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/53.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/53.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/1.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/1.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/1.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/47.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/47.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/47.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/46.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/46.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/46.png
-02-27 14:24:13 root  INFO  Starting the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/52.png
-02-27 14:24:13 root  INFO  Corresponding reference image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik/52.png
-02-27 14:24:13 root  DEBUG Size of test image: (320, 240)
-02-27 14:24:13 root  DEBUG Size of ref image: (320, 240)
-02-27 14:24:13 root  INFO  Ending the comparison of test image file: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik/52.png
+02-27 14:33:00 root  INFO  Test image directory path: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_nik
+02-27 14:33:00 root  INFO  Reference image directory path: /Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/ref_nik
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 48.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 48.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 49.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 49.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 8.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 8.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 9.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 9.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 14.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 14.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 28.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 28.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 29.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 29.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 15.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (640, 480)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  DEBUG Resizing test image with corresponding reference image size.
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 15.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 17.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 17.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 16.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 16.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 12.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 12.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 13.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 13.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 39.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 39.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 11.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 11.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 10.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 10.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 38.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 38.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 120.png
+02-27 14:33:00 root  INFO  Test image is present but corresponding reference image is not present: 120.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 35.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 35.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 21.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 21.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 20.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 20.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 34.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 34.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 121.png
+02-27 14:33:00 root  INFO  Test image is present but corresponding reference image is not present: 121.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 123.png
+02-27 14:33:00 root  INFO  Test image is present but corresponding reference image is not present: 123.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 22.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 22.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 36.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 36.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 37.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 37.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 23.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 23.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 122.png
+02-27 14:33:00 root  INFO  Test image is present but corresponding reference image is not present: 122.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 27.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 27.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 33.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 33.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 32.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 32.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 26.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 26.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 18.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (64, 64)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  DEBUG Resizing test image with corresponding reference image size.
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 18.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 30.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 30.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 24.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 24.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 25.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 25.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 31.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 31.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 19.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 19.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 124.png
+02-27 14:33:00 root  INFO  Test image is present but corresponding reference image is not present: 124.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 4.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 4.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 42.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 42.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 43.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 43.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 5.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 5.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 41.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 41.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 55.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 55.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 7.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 7.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 54.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 54.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 6.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 6.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 40.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 40.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 44.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 44.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 2.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 2.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 50.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  INFO  Ending the comparison of test image file: 50.png
+02-27 14:33:00 root  INFO  Starting the comparison of test image file: 3.png
+02-27 14:33:00 root  INFO  Found corresponding reference image file.
+02-27 14:33:00 root  DEBUG Size of test image: (128, 128)
+02-27 14:33:00 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:00 root  DEBUG Resizing test image with corresponding reference image size.
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 3.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 51.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 51.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 45.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 45.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 53.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 53.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 1.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 1.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 47.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 47.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 46.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 46.png
+02-27 14:33:01 root  INFO  Starting the comparison of test image file: 52.png
+02-27 14:33:01 root  INFO  Found corresponding reference image file.
+02-27 14:33:01 root  DEBUG Size of test image: (320, 240)
+02-27 14:33:01 root  DEBUG Size of ref image: (320, 240)
+02-27 14:33:01 root  INFO  Ending the comparison of test image file: 52.png
