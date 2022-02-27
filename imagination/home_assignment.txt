@@ -1,0 +1,15 @@
+Design a function which compare 2 folders which are having very large number of png images.
+Prototype of this function.
+def Compare_Images(test_generated_image_folder_location, Reff_image_folder_location, tolerance, name_of_log_file)
+
+This function should cover following main functionalities - 
+1)	You always compare images by its name from both location
+2)	Image size in both folders can be different for same named file. So, in that case resize the image with the one available in reference image and compare using given tolerance value.
+3)	If both files are of same size, it should match exactly.
+4)	If both files don’t match create diff file prefix with “diff”<filename>.png and store them to test_generated_image folder.
+5)	If there is an image file only in test_generated_image_folder_location and corresponding reff. Image is not present, highlight that information in log file.
+6)	This function should create log file with a detail (list of each file comparison) and summary at the end of log file with percentage value to show how many image comparisons has passed and failed.
+7)	This function should always execute in constant time + delta, regardless of number of files present in both locations. For example, If I give 10 files or 1000000 files, execution time shouldn’t vary drastically.
+8)	Tolerance value will be in percentage which defines per pixel, how much tolerance is accepted.
+
+We need a working python file with this function defined and a test file to test this functionality. Please use Python 3.7 and above for implementing this. 
