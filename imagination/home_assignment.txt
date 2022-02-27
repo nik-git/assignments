@@ -13,3 +13,22 @@ This function should cover following main functionalities -
 8)	Tolerance value will be in percentage which defines per pixel, how much tolerance is accepted.
 
 We need a working python file with this function defined and a test file to test this functionality. Please use Python 3.7 and above for implementing this. 
+
+Notes:
+
+>>1. Size : I have to compare the file size of the image(KB,MB) or dimensions like 320x240 ?
+
+Yes, width x height – dimension to consider.
+
+
+>>2. To get the image dimensions I have to use which Python package. Pillow(PIL) or cv2(OpenCV) ?
+
+We want you to take design decisions.
+
+
+>>3. To resize the image I have to change the dimension of image or disk size(KB/MB)?
+
+Again dimension.
+
+
+>>4. What is Tolerance value? How to compare image size with it? Tolerance is used to compare RGB values per pixel. Take as an account max of 10% of tolerance value(for 0-255 range) – so for example my RGB values for pixel(at (0,0)) is  – [127, 127, 127] +_ 10% tolerance. so, I am ok if same pixel(at(0,0)) in test is in range – ([102,102,102] – [152,152,152])
