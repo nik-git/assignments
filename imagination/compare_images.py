@@ -15,6 +15,7 @@ TEST_DIR_PATH = ""
 REF_DIR_PATH = ""
 LOGGER = None
 RESIZED_FILES_LIST = []
+RESIZED_FILES_COUNT = 0
 TOLERANCE = 0
 DIFF = 'diff'
 
@@ -43,6 +44,8 @@ def resize_image(file_name_list, thread_batch_number):
             LOGGER.debug(f"Thread: {thread_batch_number}: Resizing {file_name} with corresponding reference image size.")
             #RESIZED_FILES_LIST.append(file_name)
             resized_test_img = test_img.resize(ref_image_size)
+            global RESIZED_FILES_COUNT
+            RESIZED_FILES_COUNT += 1
             # Remove the old test file
             os.remove(test_image_path)
             # Save the new test image file after resize
@@ -167,6 +170,7 @@ def compare_images(test_generated_image_folder_location,
     list_common_files = log_files_absent_in_reference_folder(test_image_list,
                                                              ref_image_list)
     create_threads_for_file_resize(list_common_files)
+    LOGGER.info(f"RESIZED_FILES_COUNT: {RESIZED_FILES_COUNT}")
 
 # Test file content to test above code.
 compare_images("/Users/ngupta/Desktop/docs/new_jobs/imagination/veena/coding_test/Images/test_generated_images",
