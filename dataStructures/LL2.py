@@ -45,6 +45,22 @@ class LinkedList():
             print(ptr.data)
             # print("=>")
             ptr = ptr.next_node
+    
+    def rev(self):
+        """
+        sdfs
+        """
+        previous = None
+        current = self.head
+        after = current.next_node
+        while current:
+            current.next_node = previous
+            previous = current
+            current = after
+            if after:
+                after = after.next_node
+        self.head = previous
+
 
 ll = LinkedList()
 ll.add_in_start(2)
@@ -52,5 +68,9 @@ ll.add_in_start(4)
 ll.add_in_start(6)
 ll.add_in_end(8)
 ll.print_ll()
+print("======================")
+ll.rev()
+ll.print_ll()
 
 
+# ll.print_ll()
