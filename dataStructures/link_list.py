@@ -34,6 +34,16 @@ class LinkedList:
             ptr = ptr.next_node
         ptr.next_node = node
 
+    def del_from_end(self):
+        """
+        Del in end
+        """
+        if self.head:
+            ptr = self.head
+            while ptr.next_node:
+                ptr = ptr.next_node
+            print(ptr.data)
+
 
     def print_linked_list(self):
         """
@@ -54,4 +64,5 @@ if __name__ == "__main__":
     ll.insert_at_end(4)
     ll.insert_at_end(3)
     ll.insert_at_end(2)
+    ll.del_from_end()
     ll.print_linked_list()
