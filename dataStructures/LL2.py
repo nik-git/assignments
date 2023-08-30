@@ -42,7 +42,7 @@ class LinkedList():
         # print(self.head.data)
         ptr = self.head
         while ptr:
-            print(ptr.data)
+            print(ptr.data, "=>", end="")
             # print("=>")
             ptr = ptr.next_node
     
@@ -61,6 +61,24 @@ class LinkedList():
                 after = after.next_node
         self.head = previous
 
+    def del_from_start(self):
+        """
+        Del
+        """
+        self.head = self.head.next_node
+
+    def del_from_end(self):
+        """
+        Del from end
+        """
+        ptr1 = self.head
+        # ptr2 = None
+        while ptr1.next_node.next_node:
+            ptr1 = ptr1.next_node
+        ptr1.next_node = None
+            
+        
+
 
 ll = LinkedList()
 ll.add_in_start(2)
@@ -70,6 +88,12 @@ ll.add_in_end(8)
 ll.print_ll()
 print("======================")
 ll.rev()
+ll.print_ll()
+ll.del_from_start()
+print("======================")
+ll.print_ll()
+print("=====================")
+ll.del_from_end()
 ll.print_ll()
 
 
